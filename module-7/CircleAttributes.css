@@ -1,0 +1,30 @@
+/* CircleAttributes.css */
+/**
+ * Usiel Figueroa
+ * April 14, 2025
+ * CSD420-A311 Advanced Java Programming
+ * Module 7: JavaFX Circle Style Demo (Final Version)
+ *
+ * Purpose: CircleAttributes.css is the stylesheet for the JavaFX program.
+ */
+
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
+
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+    -fx-padding: 0;
+}
